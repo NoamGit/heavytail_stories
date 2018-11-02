@@ -17,7 +17,7 @@ baseurl: ""
 title: Heavytail Stories
 
 # Short description of your site
-description: Reviews of concepts that lay in the heavytail of Data Science and Machine Learning
+description: A blog by Noam Cohen
 
 # --- Navigation bar options --- #
 
@@ -25,14 +25,14 @@ description: Reviews of concepts that lay in the heavytail of Data Science and M
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Blog Post Archive: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+#  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/heavytail-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -70,11 +70,11 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+#  rss: false
   email: "noambox@gmail.com"
 #   facebook: daattali
   github: NoamGit
-#   twitter: daattali
+  twitter: noam_coh
 #  reddit: yourname
 #  google-plus: +DeanAttali
   linkedin: "https://www.linkedin.com/in/noam-cohen-bb56b545"
@@ -98,7 +98,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "noamgit.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -123,7 +123,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
+disqus: "noam"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
@@ -183,6 +183,7 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - vendor
 
 # prose.io config
 prose:
@@ -240,5 +241,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

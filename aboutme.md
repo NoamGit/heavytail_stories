@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Noam Cohen. When not geeking around I really like:
+- Crossfit, Rockclimbing, traveling and any extreme sports
+- Electronic music and espescially Bass music
+- Werder Bremen (!) the legendary team from the German Bundesliga
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### My background
 
-What else do you need?
+I am Data Scientist with background (M.Sc) in Neuroscience, NLP, Vision Research
+,Optics and non-linear microscopy. Besides that, I think that machine learning,
+statistical signal processing and inference on graphical data are really cool...
+You can contact me through the links below
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+---------------------------------------------------------------------------------
