@@ -146,7 +146,6 @@ title-separator: "-"
 # Output options (more information on Jekyll's site)
 timezone: "America/Vancouver"
 markdown: kramdown
-mathjax: true
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
@@ -241,5 +240,6 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
 
 # 2fc73a3a967e97599c9763d05e564189
