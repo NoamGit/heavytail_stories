@@ -6,7 +6,7 @@ subtitle:
 
 My name is Noam Cohen. When not geeking around I really like:
 - Crossfit, Rockclimbing, traveling and any extreme sports
-- Electronic music and espescially Bass music
+- Electronic music and espescially Bass
 - Werder Bremen (!) the legendary team from the German Bundesliga
 
 ### My background
