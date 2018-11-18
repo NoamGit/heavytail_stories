@@ -1,6 +1,7 @@
 # project
 _site
 _not_include
+vendor
 .sass-cache
 .vagrant
 
@@ -8,4 +9,5 @@ _not_include
 .DS_Store
 Thumbs.db
 ehthumbs.db
+
 
