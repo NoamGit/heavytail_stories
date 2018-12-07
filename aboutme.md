@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle:
+bigimg: "/img/about_img3.JPG"
 ---
 
 My name is Noam Cohen. When not geeking around I really like:
