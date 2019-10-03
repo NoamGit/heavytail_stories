@@ -12,7 +12,7 @@ My name is Noam Cohen. When not geeking around I really like:
 
 ### My background
 
-I am a Data Scientist, working at [Deep Solutions](http://www.deep-solutions.net/), with a background (M.Sc) in Neuroscience, NLP, Vision Research, Optics and non-linear microscopy. Besides that, I think that machine learning, statistical signal processing and inference on graphical data are really cool...
+I am a Data Scientist, entrepreneur and co-founder of [Tetrix Health](http://www.tetrix.ai), with a background (M.Sc) in Neuroscience, NLP, Vision Research, Optics and non-linear microscopy. Besides that, I think that machine learning, statistical signal processing and inference on graphical data are really cool...
 You can contact me through the links below
 
 ---------------------------------------------------------------------------------
